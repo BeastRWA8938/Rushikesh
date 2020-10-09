@@ -392,6 +392,7 @@ html {
 .project_images {
     /* margin: 0 100px 0 100px; */
     display: flex;
+    padding: 40px;
     position: relative;
 }
 
